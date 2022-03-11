@@ -1,0 +1,22 @@
+name: auto-update-hosts
+on:
+  push:
+    branches:
+      - master
+  schedule:
+    - cron: "18 10 */2 * *"
+
+jobs:
+  generate-data:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: genhosts
+        run: ./genhosts.sh
+        shell: bash
+      - name: commit the updates
+        run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Actions"
+          git add .
+          git diff-index --quiet HEAD || (git commit -m "automatically update nsomet_hosts.txt" && git push)

@@ -1,0 +1,3 @@
+[submodule "investigations"]
+	path = investigations
+	url = https://github.com/AmnestyTech/investigations.git
