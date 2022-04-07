@@ -69,8 +69,15 @@
 0.0.0.0	aircraftsxhibition.com
 0.0.0.0	ajelnews.net
 0.0.0.0	akhbar-aliqtisad.com
+0.0.0.0	akhbar-almasdar.com
 0.0.0.0	akhbar-arabia.com
+0.0.0.0	akhbar-islamyah.com
 0.0.0.0	akhbara-aalawsat.com
+0.0.0.0	akhbarnew.com
+0.0.0.0	al-nusr.net
+0.0.0.0	al-taleanewsonline.net
+0.0.0.0	al7erak247.com
+0.0.0.0	al7eraknews.com
 0.0.0.0	alawaeltech.com
 0.0.0.0	albumphotopro.biz
 0.0.0.0	alert-newmail02.pro
@@ -95,6 +102,7 @@
 0.0.0.0	alpineai.uk
 0.0.0.0	alraeeenews.com
 0.0.0.0	alraeesnews.net
+0.0.0.0	alrainew.com
 0.0.0.0	altsantiri.news
 0.0.0.0	amazing.lab
 0.0.0.0	ancienthistory.xyz
@@ -123,6 +131,7 @@
 0.0.0.0	appsjuegos.com.mx
 0.0.0.0	ar-tweets.com
 0.0.0.0	arab-share.com
+0.0.0.0	arabia-islamion.com
 0.0.0.0	arabnews365.com
 0.0.0.0	arabworld.biz
 0.0.0.0	arabworldnews.info
@@ -400,6 +409,7 @@
 0.0.0.0	coupedumondepro.com
 0.0.0.0	couponshops.info
 0.0.0.0	covid19masks.shop
+0.0.0.0	cozmo-store.net
 0.0.0.0	cpr-appointments.com
 0.0.0.0	crashonline.site
 0.0.0.0	crimebackfire.com
@@ -758,6 +768,7 @@
 0.0.0.0	holiday4u.work
 0.0.0.0	homeishere.co
 0.0.0.0	homemadecandies.net
+0.0.0.0	hona-alrabe3.com
 0.0.0.0	hopnope.xyz
 0.0.0.0	horsefingercoffee.com
 0.0.0.0	host-one-more.com
@@ -903,6 +914,7 @@
 0.0.0.0	keyindoors.com
 0.0.0.0	keynotepalm.com
 0.0.0.0	khaleejtimes.online
+0.0.0.0	khilafah-islamic.com
 0.0.0.0	kinder.engine.ninja
 0.0.0.0	kingdom-deals.com
 0.0.0.0	kingdom-news.com
@@ -986,6 +998,7 @@
 0.0.0.0	login-acc.email
 0.0.0.0	login-network.space
 0.0.0.0	login-service.email
+0.0.0.0	login-service.net
 0.0.0.0	login-service.online
 0.0.0.0	loginverify.net
 0.0.0.0	loisiragogo.com
@@ -1063,6 +1076,7 @@
 0.0.0.0	management-help.com
 0.0.0.0	managingincluded.com
 0.0.0.0	mangasiso.top
+0.0.0.0	mangoutlet.net
 0.0.0.0	manoraonline.net
 0.0.0.0	manydnsnow.com
 0.0.0.0	maphonortea.com
@@ -1102,6 +1116,7 @@
 0.0.0.0	mobile-updates.info
 0.0.0.0	mobilebrowsing.net
 0.0.0.0	mobilephonesme.com
+0.0.0.0	mobiles-security.net
 0.0.0.0	mobileweatherweb.com
 0.0.0.0	mobnetlink1.com
 0.0.0.0	mobnetlink2.com
@@ -1566,6 +1581,7 @@
 0.0.0.0	rosegoldjewerly.com
 0.0.0.0	rosesforus.com
 0.0.0.0	royalk-uae.com
+0.0.0.0	rss-me.com
 0.0.0.0	russian4u.net
 0.0.0.0	rythemsjoy.club
 0.0.0.0	s3.hiahornber.com
@@ -1759,6 +1775,7 @@
 0.0.0.0	takecarhomes.com
 0.0.0.0	takemallelectric.com
 0.0.0.0	takethat.co
+0.0.0.0	talabatt.net
 0.0.0.0	tastyteaflavors.com
 0.0.0.0	teachskate.com
 0.0.0.0	techhelping.net
@@ -1885,6 +1902,7 @@
 0.0.0.0	univision.click
 0.0.0.0	unlockaccount.net
 0.0.0.0	unonoticias.net
+0.0.0.0	unsubscribe-now.net
 0.0.0.0	unsubscribed.co
 0.0.0.0	unsubscribeinhere.com
 0.0.0.0	untoldinfo.net
