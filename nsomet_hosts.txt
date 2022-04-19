@@ -1,3 +1,4 @@
+0.0.0.0	123tramites.com
 0.0.0.0	14-tracking.com
 0.0.0.0	1minto-start.com
 0.0.0.0	24-7clinic.com
@@ -58,6 +59,7 @@
 0.0.0.0	adscreator.net
 0.0.0.0	adservices.gr.com
 0.0.0.0	adsload.co
+0.0.0.0	adsmetrics.co
 0.0.0.0	adultpcz.xyz
 0.0.0.0	advert-time.com
 0.0.0.0	advert-track.com
@@ -524,6 +526,7 @@
 0.0.0.0	ecommerce-ads.org
 0.0.0.0	economic-news.co
 0.0.0.0	editorscolumn.net
+0.0.0.0	edolio5.com
 0.0.0.0	effectivespeech.net
 0.0.0.0	efsyn.online
 0.0.0.0	eg-gov.org
@@ -865,6 +868,7 @@
 0.0.0.0	industry-specialist.com
 0.0.0.0	ineediscounts.com
 0.0.0.0	info24.live
+0.0.0.0	infoquiz.net
 0.0.0.0	infosms-a.site
 0.0.0.0	infospotpro.com
 0.0.0.0	infospress.com
@@ -1292,6 +1296,7 @@
 0.0.0.0	nikjol.xyz
 0.0.0.0	nissan.gr.com
 0.0.0.0	nitroqensports.eu
+0.0.0.0	nnews.co
 0.0.0.0	node.podzone.org
 0.0.0.0	noextramoney.com
 0.0.0.0	noloveforyou.com
@@ -1541,6 +1546,7 @@
 0.0.0.0	redirectshare.com
 0.0.0.0	redirectweburl.com
 0.0.0.0	redirigir.net
+0.0.0.0	redirstats.com
 0.0.0.0	redstarnews.net
 0.0.0.0	reflectextension.net
 0.0.0.0	regionews.net
@@ -1736,6 +1742,8 @@
 0.0.0.0	static-graph.com
 0.0.0.0	stationfunds.net
 0.0.0.0	statisticsdb.net
+0.0.0.0	statsads.co
+0.0.0.0	statsupplier.com
 0.0.0.0	staysystem.net
 0.0.0.0	stonisi.news
 0.0.0.0	stopmysms.com
