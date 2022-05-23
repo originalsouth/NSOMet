@@ -397,6 +397,7 @@
 0.0.0.0	connectivitychecker.com
 0.0.0.0	contacting-customer.com
 0.0.0.0	content-blocking.net
+0.0.0.0	contents-domain.com
 0.0.0.0	contentsbycase.com
 0.0.0.0	convertedversion.com
 0.0.0.0	cookiescom.com
@@ -1527,6 +1528,7 @@
 0.0.0.0	redirectgate.com
 0.0.0.0	redirecting-url.com
 0.0.0.0	redirecting.live
+0.0.0.0	redirecting.page
 0.0.0.0	redirectingpage.net
 0.0.0.0	redirectingurl.net
 0.0.0.0	redirectingurl.org
