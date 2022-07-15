@@ -38,6 +38,7 @@
 0.0.0.0	accounts.loginshare.info
 0.0.0.0	accounts.mx
 0.0.0.0	accountsections.com
+0.0.0.0	accountsecurities.org
 0.0.0.0	accountsgoog1e.com
 0.0.0.0	activate-discount.com
 0.0.0.0	active-folders.com
